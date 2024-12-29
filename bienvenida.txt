@@ -1,0 +1,1 @@
+Hola esta es un texto de bienvenida de prueba para ejercicios de git en comandos.
